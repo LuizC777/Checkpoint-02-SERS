@@ -1,5 +1,17 @@
 # Checkpoint 02 Técnicas de Classificação e Regressão em SERS
 
+---
+
+Membros:
+Raphael Talarico Rm 565219
+Luiz Claro Rm 563014
+Gabriel Romão Rm 563378
+Mateus Patrício Pereira Rm 564695
+Leonardo Luster Gomes Rm 564448
+Gabriel Nacarelli Pinheiro Rm 565298
+
+---
+
 Este repositório contém um **notebook Jupyter (`.ipynb`)** com o código do projeto e os arquivos .zip com os bancos de dados necessários para a execução.
 
 O objetivo é permitir que qualquer pessoa possa abrir e rodar o projeto diretamente no **Google Colab**.
