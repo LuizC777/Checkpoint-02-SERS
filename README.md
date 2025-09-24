@@ -4,10 +4,15 @@
 
 Membros:
 Raphael Talarico Rm 565219
+
 Luiz Claro Rm 563014
+
 Gabriel Romão Rm 563378
+
 Mateus Patrício Pereira Rm 564695
+
 Leonardo Luster Gomes Rm 564448
+
 Gabriel Nacarelli Pinheiro Rm 565298
 
 ---
