@@ -18,7 +18,7 @@ O objetivo é permitir que qualquer pessoa possa abrir e rodar o projeto diretam
 
 ## Como Executar no Google Colab
 
-1. Acesse o [Google Colab]([[https://colab.research.google.com/](https://colab.research.google.com/drive/1eQmZXiZVf5D7SY6HiWoEbyXIGkp3dakV?usp=sharing)](https://colab.research.google.com/drive/1Pnq3UshS4ayyD1vT6_x0Lf3cieGamd0E?usp=sharing)).
+1. Acesse o [Google Colab][[https://colab.research.google.com/](https://colab.research.google.com/drive/1Pnq3UshS4ayyD1vT6_x0Lf3cieGamd0E?usp=sharing)]
 
 2. Faça o upload dos arquivos .zip do repositório
 
